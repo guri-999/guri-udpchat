@@ -10,4 +10,4 @@ O User Datagram Protocol (UDP) é um protocolo de Internet mais simples e sem co
 ##### 2. Abra outro terminal e execute o mesmo codigo.
 ##### 3. Escolha a 2 opção que faz "ouvir" na porta e possibilita mandar e ver mensagens.
 
-### Espero que tenham gostado.
+### Espero que gostem.
