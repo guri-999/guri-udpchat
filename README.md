@@ -1,7 +1,7 @@
 # guri-udpchat
 
-## olá esse codigo faz rodar uma especie de chat que usa o protocolo udp.
-### O que é UDP?
+## olá, esse código faz rodar uma espécie de chat que usa o protocolo udp.
+### O que seria o protocolo UDP?
 O User Datagram Protocol (UDP) é um protocolo de Internet mais simples e sem conexão, no qual os serviços de verificação e recuperação de erros não são necessários.
 
 ### Para testar:
